@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6282135890584@s.whatsapp.net",
+    "ownerName": "Adit",
+    "limitCount": 90,
+    "gamewaktu": 90,
+    "botName": "Xinz Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "XINZTEAM",
+    "fake": "XINZ-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "adit",
+    "txtDonasi": "DANA : 083150288681\nSaweeria : https://saweria.co/aditiadit747\nPulsa : 083150288681",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
